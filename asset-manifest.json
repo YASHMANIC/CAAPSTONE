@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CAAPSTONE/static/css/main.85838ac8.css",
+    "main.js": "/CAAPSTONE/static/js/main.bb9a4156.js",
+    "static/js/787.adc1714b.chunk.js": "/CAAPSTONE/static/js/787.adc1714b.chunk.js",
+    "static/media/restauranfood.jpg": "/CAAPSTONE/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/small_logo.png": "/CAAPSTONE/static/media/small_logo.2c859235d6c57bb54176.png",
+    "static/media/littlelemon_logo.png": "/CAAPSTONE/static/media/littlelemon_logo.d4cae6fac8384c2dae04.png",
+    "index.html": "/CAAPSTONE/index.html",
+    "main.85838ac8.css.map": "/CAAPSTONE/static/css/main.85838ac8.css.map",
+    "main.bb9a4156.js.map": "/CAAPSTONE/static/js/main.bb9a4156.js.map",
+    "787.adc1714b.chunk.js.map": "/CAAPSTONE/static/js/787.adc1714b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85838ac8.css",
+    "static/js/main.bb9a4156.js"
+  ]
+}
