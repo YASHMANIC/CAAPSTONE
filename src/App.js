@@ -10,6 +10,7 @@ function App() {
     <div>
     <React.Fragment>
       <Nav />
+    <Header />
       <Main />
       <Footer />
     </React.Fragment>
